@@ -1,0 +1,5 @@
+/venv
+chromedriver
+chromedriver_linux64.zip
+geckodriver.log
+.idea
